@@ -1,4 +1,8 @@
 _repo: The-Vitality-of-Mormonism-Brief-Essays-on-Distinctive-Doctrines-of-the-Church-of-Jesus-Christ__47182
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47182-h/images/cover.jpg
 creator:
   author:
     agent_name: Talmage, James E. (James Edward)
@@ -10,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/James_E._Talmage
 description: A collection of brief essays on the distinctive doctrines of the Church
   of Jesus Christ of Latter-day Saints.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47182#The-Vitality-of-Mormonism-Brief-Essays-on-Distinctive-Doctrines-of-the-Church-of-Jesus-Christ_
 gutenberg_bookshelf: Latter Day Saints
 gutenberg_issued: '2014-10-23'
 gutenberg_type: Text
